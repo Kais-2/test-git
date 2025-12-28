@@ -1,0 +1,9 @@
+div {
+    text-align: center;
+    font-size: small;
+    color: rgb(48, 48, 48);
+}
+body {
+    background-color: rgb(236, 216, 154);
+    border: 2px solid tan
+}

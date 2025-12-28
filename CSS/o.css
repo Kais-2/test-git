@@ -1,0 +1,19 @@
+div {
+    background-color: aqua;
+    background-image: linear-gradient(red, blue);
+}
+.y {
+    background-image: url(Frame\ 1.png);
+    background-size: 200px;
+    background-color: wheat;
+}
+.gradiend {
+    background-image: repeating-linear-gradient(to top left ,green 5%, orange 5%,red 5%,yellow 5%,blue 40%,black 5%,white 5%,purple 5%,pink 75%,aqua 5%);
+    color: transparent;
+    background-clip: text;
+}
+.yrok {
+    background-image: linear-gradient(to left, blue,red,pink,yellow,lime,purple);
+    color: transparent;
+    background-clip: text;
+}

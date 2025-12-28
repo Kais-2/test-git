@@ -1,0 +1,57 @@
+/*p {
+    color: red;
+    background-color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+}*/
+h1 {
+    color: blue;
+    background-color: darkgreen;
+    font-size: 2000%;
+}
+h2 {
+color: #4c4c4c;
+background-color: #b12424;
+}
+h3 {
+color: rgb(76, 76, 76);
+background-color: rgb(138, 69, 69);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h4 {
+color: hsl(240, 57%, 58%);
+    background-color: hsl(240, 100%, 50%);
+    text-align: center;
+}
+/*
+p {
+ font-family: Arial;   
+}*/
+/*
+p {
+    font-family: Arial Bold;
+}*/
+/*
+p {
+    font-family: Arial Narrow;
+}*/
+/*
+p {
+    font-family: fantasy;
+    font-size: 50px;
+}*/
+/*
+p {
+    font-size: xx-large;
+}*/
+body {
+    font-size: 10px;
+}
+/*
+p {
+    font-weight: 900;
+    font-size: 20px;
+}*/
+p {
+    font-style: italic;
+    font-size: 20px;
+}

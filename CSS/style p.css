@@ -1,0 +1,21 @@
+p {
+    color: red;
+}
+.test {
+    color: blue;
+}
+.news {
+    color: blue;
+}
+.news_omsk{
+    background-color: blue;
+    color: white;
+}
+.text_omsk{
+    border: 2px solid blue;
+}
+.Lorem {
+    background-color: blue;
+    color: white;
+    
+}
